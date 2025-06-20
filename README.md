@@ -43,6 +43,11 @@ Translate user needs into technical specifications.
 Assist in feature prioritization and roadmap planning.
 Ensure the solution aligns with business objectives.
 
+# Feature Breakdown
+# API Security 
+# CI/CD Pipeline
+
+
 # ⚙️ Technology Stack
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
